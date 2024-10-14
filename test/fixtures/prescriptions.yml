@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  medication_name: MyString
+  dosage: MyString
+  start_date: 2024-10-14
+  end_date: 2024-10-14
+  notes: MyText
+  user: one
+
+two:
+  medication_name: MyString
+  dosage: MyString
+  start_date: 2024-10-14
+  end_date: 2024-10-14
+  notes: MyText
+  user: two
