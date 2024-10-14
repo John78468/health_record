@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doctor_name: MyString
+  date: 2024-10-14 19:29:56
+  location: MyString
+  notes: MyText
+  user: one
+
+two:
+  doctor_name: MyString
+  date: 2024-10-14 19:29:56
+  location: MyString
+  notes: MyText
+  user: two
